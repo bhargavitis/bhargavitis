@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, SQL & Tableau 
 - 💞️ I’m looking to collaborate on Data Analysis works
-- 📫 How to reach me ...
+- 📫 Reach me at bereddy18@gmail.com
 
 <!---
 bhargavitis/bhargavitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
